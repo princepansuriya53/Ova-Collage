@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "443467561843",
+    "project_id": "fir-otp-1fef8",
+    "storage_bucket": "fir-otp-1fef8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443467561843:android:7ba851feec6687841ce306",
+        "android_client_info": {
+          "package_name": "com.example.ova"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "443467561843-v4ppgnj7hj22uahm85q1pmqeim2s9ele.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ova",
+            "certificate_hash": "91b9832c1f2508a5397b2058379073427072aef1"
+          }
+        },
+        {
+          "client_id": "443467561843-rp9eakr67n948tlm93rbpph4dfe62p4b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFI0i9u5dIq9L5xIVXuO7Z7Ok9vSGd0dI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "443467561843-rp9eakr67n948tlm93rbpph4dfe62p4b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
